@@ -1,5 +1,6 @@
 # Contributors
 hello ji 
+- [Rajeev Patel](https://github.com/23f3002112)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
